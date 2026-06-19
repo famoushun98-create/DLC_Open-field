@@ -11,7 +11,7 @@ ETHZ-INS/Bohacek lab, CC-BY 4.0)으로 파이프라인이 정상 작동하는지
 
 ## 빠른 시작 (Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GITHUB_USERNAME>/PD-OpenField-EdgePreference/blob/main/notebooks/test_pipeline_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/famoushun98-create/PD-OpenField-EdgePreference/blob/main/notebooks/test_pipeline_colab.ipynb)
 
 위 배지를 클릭하면 별도 설치 없이 바로 실행할 수 있습니다.
 (노트북 안에서 데이터를 Zenodo에서 직접 다운로드합니다.)
@@ -67,6 +67,8 @@ PD-OpenField-EdgePreference/
 von Ziegler, L. M., Roessler, F. K., Sturman, O., O'Connor, E. C., & Bohacek, J. (2023).
 Raw video and pose estimation data of top view open field mouse behavior recordings
 after yohimbine injections [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8188682
+        
+        
 ```
 
 라이선스: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
